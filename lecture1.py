@@ -1,0 +1,9 @@
+a=58
+print(a)
+print()
+print("iuh")
+print(type(5+6j))
+k2=6
+_h=9
+a=5
+print(A)

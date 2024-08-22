@@ -1,0 +1,5 @@
+l=(1,2,3,4,5,'h')
+print(l)
+# l.append(17)
+print(l)
+print(l.count(4))
